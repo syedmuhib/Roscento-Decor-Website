@@ -1,0 +1,599 @@
+.navbar {
+    background-color: maroon !important;
+    
+    
+}
+.nav-link{
+    color: white !important;
+    font-weight: bold;
+}
+.logo{
+    height: 70px;
+    width: 220px;
+}
+.d-block{
+    height: 520px;
+    
+}
+.dropdown:hover>.dropdown-menu{
+    display: block;
+    
+}
+.navbar .navbar-nav li a:hover {    
+   background-color:rgba(255, 197, 122, 0.589);
+   color: white;
+   border-radius: 10px;
+   
+  
+}
+.navbar .navbar-nav .dropdown-menu {
+    background-color: rgba(146, 175, 146, 0.801);
+    
+}
+.carousel{
+    margin-top: 96px;
+}
+.hlogo{
+    height:100px;
+    width: 220px;
+}
+.h11{
+    color:rgba(2, 119, 2, 0.582) ;
+    font-style: italic; 
+}
+.h12{
+    color: rgb(226, 118, 145) ;
+}
+.mdiv{
+    margin-top: 50px;
+    box-shadow: 6px 6px 30px 5px rgb(7, 6, 6);  
+    
+   
+}
+.sdiv{
+    text-align: center;
+    margin-top: 70px;
+}
+.ldiv{
+    text-align: center;
+}
+.tdiv{
+    text-align: center;
+    margin-top: 10px;
+   font-style: oblique;
+}
+.ttdiv{
+    text-align: center;
+    line-height: 30px;
+   
+}
+.mdiv,.sdiv,.ldiv,.tdiv,.ttdiv{
+    background-color:rgb(177, 165, 165) ;
+}
+.featured{
+   text-align: center;
+   margin-top: 100px;
+   font-style: italic;
+   background-color: rgba(255, 197, 122, 0.589);
+   
+   font-family: 'Dancing Script', cursive;
+   
+   
+   
+}
+.l2main{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+
+    
+
+}
+.l2sub{
+    border-right: 3px solid rgb(226, 118, 145);
+    border-left: 3px solid rgba(2, 119, 2, 0.582);
+    width:350px;
+    margin-top: 40px;
+    
+
+}
+.l2pic{
+    text-align: center;
+    
+}
+.l2para{
+    text-align: center;
+    font-style: italic;
+    margin-top: 20px;
+}
+.weddlogo{
+    height: 220px;
+    width: 250px;
+}
+.evdc{
+    text-align: center;
+    color: purple;
+    margin-top: 15px;
+    
+}
+
+.l3main{
+ margin-top: 70px;
+ display: flex;
+ flex-direction: row;
+ flex-wrap: wrap;
+ justify-content: space-around;
+ background-image: url(../images/florists-bouquets.jpg);
+ background-size: cover;
+ 
+
+ 
+
+}
+.fa-shopping-cart{
+    font-size: 50px !important;
+    color:white;
+}
+.l3sub{
+    box-shadow: 5px 5px 10px black;
+    width: 350px;
+    text-align: center;
+    height: 300px;
+    margin-top: 200px;
+    background-color: rgba(114, 114, 114, 0.582) ;
+    margin-bottom: 200px;
+   border:solid 1px gray;
+    
+    
+}
+.l3h{
+    margin-top: 30px;
+    background-color:rgba(0, 0, 0, 0.856);
+    color: white;
+    text-decoration: underline;
+    font-style: italic;
+}
+.shicon{
+    margin-top: 80px;
+    
+    
+   
+}
+.l3sub:hover{
+    background-color:rgba(255, 164, 164, 0.582);
+}
+.fa-pagelines{
+    font-size: 50px !important;
+    color: white;
+}
+
+.hlastsub{
+    width: 500px;
+    text-align: center;
+    background-color: black;
+    
+}
+.hlastm{
+    margin-top: 50px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    color: white;
+    background-color: black;
+}
+.fa-facebook-square, .fa-twitter, .fa-instagram, .fa-youtube-play{
+    font-size: 25px !important;
+    color: rgb(9, 9, 255);
+    letter-spacing: 10px;
+}
+ .fa-youtube-play{
+    color: red !important;
+}
+.fa-instagram{
+    color: white !important;
+}
+.hlastpara{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.fa-phone, .fa-envelope{
+    color: green !important;
+}
+.crite{
+    background-color: blue;
+    text-align: center;
+    height: 50px;
+}
+.lll{
+    color: white ;
+}
+                      /* about page */
+
+.abtmain{
+text-align: center;
+margin-top: 170px;
+}
+
+.making1{
+    height: 400px;
+    width: 450px;
+}
+.making2{
+    height: 300px;
+    width: 400px;
+}
+.abtl2{
+    background-color: rgb(18, 149, 18);
+    margin-top: 60px;
+    text-align: center;
+    border: 1px solid rgb(18, 149, 18) ;
+    
+}
+.abtl2h{
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 90px;
+}
+.flowericonabtl2{
+    margin-top: 90px;
+}
+.abtl3main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    align-content: center;
+    
+    
+
+}
+.abtl3sub{
+    margin-left: 50px;
+    
+}
+.l3image{
+    height: 400px;
+    width: 400px;
+}
+.contactl1main{
+    margin-top: 150px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+    background-color: rgb(214, 214, 214);
+}
+.contactl1sub2{
+   margin-left: 50px;
+
+}
+.contactl1sub{
+    margin-left: 50px;
+      
+}
+.contaclogo{
+    height: 100px;
+    width: 200px;
+}
+.contactl2sub{
+    text-align: center;
+    margin-top: 60px;
+}
+.contactl3main{
+    margin-top: 50px;
+}
+.contactl3sub{
+    margin-top: 30px;
+    background-color:rgb(18, 149, 18) ;
+    color: white;
+      
+}
+input{
+    width: 300px;
+}
+.submit{
+    width: 100px;
+   
+}
+.submit:hover{
+    background-color: gray;
+    
+}
+.mehndil1{
+    margin-top: 200px;
+    text-align: center;
+    background-color: rgb(255, 205, 78);
+    padding: 20px;
+    font-style: italic;
+}
+.mehndil2{
+    text-align: center;
+    margin-top: 60px;
+    background-color: rgb(255, 205, 78);
+    padding: 20px;
+    font-style: italic;
+    
+}
+
+.mehndil3{
+    text-align: center;
+    margin-top: 80px;
+    font-style: italic;
+    color:  rgb(255, 205, 78);
+}
+.mehndil4main{
+margin-top: 40px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+flex-wrap: wrap;
+}
+.mehndil4sub{
+    margin-top: 20px
+
+}
+.mehndipic{
+    height: 250px;
+    width: 300px;
+    
+}
+.mehndipic:hover{
+    transform: scale(1.1);
+}
+.mehendil5main{
+margin-top: 40px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+flex-wrap: wrap;
+} 
+.mehndil6main{
+margin-top: 40px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+flex-wrap: wrap;   
+}
+.mehndil7main{
+margin-top: 40px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+flex-wrap: wrap;   
+}
+.baratl1{
+    margin-top: 200px;
+    text-align: center;
+    background-color: red;
+    padding: 20px;
+    font-style: italic;
+    color: white;
+}
+.baratl2{
+    text-align: center;
+    margin-top: 60px;
+    background-color: red;
+    padding: 20px;
+    font-style: italic;
+    color: white;
+}
+    .baratl3{
+        text-align: center;
+        margin-top: 80px;
+        font-style: italic;
+        color:  red;
+    }
+    .baratl4main{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    }
+    .baratl4sub{
+        margin-top: 20px
+    
+    }
+    .baratpic{
+        height: 250px;
+        width: 300px;
+    }
+    .baratpic:hover{
+        transform: scale(1.1);
+    }
+
+    .baratl5main{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    } 
+    .baratl6main{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;   
+    }
+    .baratl7main{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;   
+    }
+
+
+    .walimal1{
+        margin-top: 200px;
+        text-align: center;
+        background-color: rgb(255, 203, 158);
+        padding: 20px;
+        font-style: italic;
+    }
+    .walimal2{
+        text-align: center;
+        margin-top: 60px;
+        background-color: rgb(255, 203, 158);
+        padding: 20px;
+        font-style: italic;
+        
+    }
+    
+    .walimal3{
+        text-align: center;
+        margin-top: 80px;
+        font-style: italic;
+        color:  rgb(255, 203, 158);
+    }
+    .walimal4main{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    }
+    .walimal4sub{
+        margin-top: 20px
+    
+    }
+    .walimapic{
+        height: 250px;
+        width: 300px;
+    }
+    .walimapic:hover{
+        transform: scale(1.1);
+    }
+    .walimal5main{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    } 
+    .walimal6main{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;   
+    }
+    .walimal7main{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;   
+    }
+    .consultl1main{
+        margin-top: 200px;
+    }
+    .consultl1para{
+        text-align: center;
+        font-family: 'Dancing Script', cursive;
+   
+   
+    }
+    .consultl1para2{
+        text-align: center;
+        font-size: 20px;
+        margin-top: 10px;
+    }
+
+    .consultl2main{
+        margin-top: 80px;
+    }
+    .consultl2para{
+        text-align: center;
+        font-family: 'Dancing Script', cursive;
+    }
+    .consultl2para2{
+        text-align: center;
+        font-size: 20px;
+        margin-top: 10px;
+    }
+    .consultl2para3{
+        text-align: center;
+        font-size: 25px;
+        font-weight: bold;
+        font-style: italic;
+        
+    }
+    .onlineshopl1{
+        margin-top: 150px;
+        text-align: center;
+        font-family: 'Dancing Script', cursive;
+        background-color: green;
+        color: white;
+        padding: 20px;
+    }
+    .onlineshopl2{
+        margin-top: 100px;
+        text-align: center;
+        font-family: 'Dancing Script', cursive;
+        font-weight: bold;
+        color: maroon;
+        border-bottom: 3px dashed black;
+        text-shadow: 3px 3px 10px black;
+        border-top: 3px dashed black;
+        padding: 30px;
+
+    }
+    .container{
+        margin-top: 40px;
+        
+    }
+    .card-title{
+        text-align: center;
+    }
+    .card-text{
+        text-align: center;
+        font-weight: bold;
+        font-size: 20px;
+    }
+    .btn-primary{
+        text-align: center;
+        background-color: maroon;
+        border: 1px solid maroon;
+    }
+    .card-body{
+        text-align: center;
+    }
+    .card{
+        width: 230px;
+        margin-top: 30px;
+       
+    }
+    .card-img-top{
+        height: 250px;
+        width: 228px;
+    }
+    .gotopbtn{
+        position: fixed;
+        width: 30px;
+        height: 30px;
+        background: rgb(146, 133, 133);
+        bottom: 40px;
+        right: 50px;
+        color: white;
+        font-size: 17px;
+        text-align: center;
+        
+    }
+    .fa-arrow-up{
+      font-size: 30px;
+    }
+    
+
+    
+
+
+ @media screen and (max-width: 870px) {
+
